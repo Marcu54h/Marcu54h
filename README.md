@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marcu54h
+- 👋 Hi, I’m Adam
 - 👀 I’m interested in programming, networks, databases, docker, kubernetes
 - 🌱 I’m currently learning Next.js, GraphQL with Prisma.
 - 💞️ I’m looking to collaborate on interesting projects :)
