@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adam
-- 👀 I’m interested in programming, networks, databases, docker, kubernetes
-- 🌱 I’m currently learning Next.js, GraphQL with Prisma.
+- 👋 Hello, I’m Adam
+- 👀 I’m interested in programming, networks, databases, docker, kubernetes and many more.
+- 🌱 Currently I'm learning C++.
 - 💞️ I’m looking to collaborate on interesting projects :)
 - 📫 How to reach me -> adam.marzec@gmail.com
 
